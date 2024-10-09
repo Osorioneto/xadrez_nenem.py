@@ -1,2 +1,3 @@
 # xadrez_nenem.py
- iniciando
+ começando a gerenciar meus repositorios 
+ chama nego 
